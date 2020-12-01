@@ -9,7 +9,7 @@ class Index extends BaseController
 {
     public function index()
     {
-         $result = Db::table('blog_user')->avg('age');
+         $result = Db::name('user')->page(1,2)->select();
          dd($result);
     }
 }

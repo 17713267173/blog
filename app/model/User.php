@@ -5,5 +5,9 @@ use think\Model;
 
 class User extends Model
 {
-    // protected $name = 'user';
+     public $name = 'user';
+
+     public  function test(){
+         return $this->name;
+     }
 }
