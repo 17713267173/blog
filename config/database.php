@@ -19,23 +19,23 @@ return [
     'connections'     => [
         'mysql' => [
             // 数据库类型
-            'type'            => env('database.type', 'mysql'),
+            'type'        => 'mysql',
             // 服务器地址
-            'hostname'        => env('database.hostname', '127.0.0.1'),
+            'hostname'    => '115.159.64.201',
             // 数据库名
-            'database'        => env('database.database', ''),
-            // 用户名
-            'username'        => env('database.username', 'root'),
-            // 密码
-            'password'        => env('database.password', ''),
-            // 端口
-            'hostport'        => env('database.hostport', '3306'),
+            'database'    => 'test',
+            // 数据库用户名
+            'username'    => 'root',
+            // 数据库密码
+            'password'    => 'chenjinbao.0906',
+            // 数据库连接端口
+            'hostport'    => '3306',
             // 数据库连接参数
-            'params'          => [],
+            'params'      => [],
             // 数据库编码默认采用utf8
-            'charset'         => env('database.charset', 'utf8'),
+            'charset'     => 'utf8',
             // 数据库表前缀
-            'prefix'          => env('database.prefix', ''),
+            'prefix'      => 'blog_',
 
             // 数据库部署方式:0 集中式(单一服务器),1 分布式(主从服务器)
             'deploy'          => 0,
