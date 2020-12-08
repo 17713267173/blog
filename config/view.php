@@ -22,4 +22,14 @@ return [
     'taglib_begin'  => '{',
     // 标签库标签结束标记
     'taglib_end'    => '}',
+    'tpl_replace_string' => [
+//        '__STATIC__' => $_SERVER['REQUEST_SCHEME'] .'://' . $_SERVER['HTTP_HOST'] . str_replace('/index.php' ,'' ,$_SERVER['SCRIPT_NAME']) . '/app/web/view/public/static',
+//        '__STATIC__' => '/public/static'
+        '__PUBLIC__' => '/public',
+        '__STATIC__' => '/app/web/view/public'
+    ],
+    //开启全局模板布局
+    'layout_on' => false,
+    //全局模板布局文件名
+    'layout_name' => '/public/base/index'
 ];
