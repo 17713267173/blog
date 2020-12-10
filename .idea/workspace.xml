@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b8018db-ad65-4ba4-b331-a6a2995aa42a" name="Default Changelist" comment="打开.gitignore  提交所有文件">
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+    <list default="true" id="2b8018db-ad65-4ba4-b331-a6a2995aa42a" name="Default Changelist" comment="为了上线！！！">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/web/temp/12c78be44debbc795940e2ac4cc75f70.php" beforeDir="false" afterPath="$PROJECT_DIR$/runtime/web/temp/12c78be44debbc795940e2ac4cc75f70.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +115,8 @@
       <workItem from="1607312515505" duration="642000" />
       <workItem from="1607322259217" duration="11241000" />
       <workItem from="1607389775820" duration="13480000" />
-      <workItem from="1607583647266" duration="4565000" />
+      <workItem from="1607583647266" duration="5208000" />
+      <workItem from="1607593362018" duration="179000" />
     </task>
     <task id="LOCAL-00001" summary="练习数据库">
       <created>1606784415756</created>
@@ -172,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607589678355</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="为了上线！！！">
+      <created>1607590553155</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607590553155</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,17 +206,18 @@
     <MESSAGE value="之前有部分文件没有提交，如index.php .htaccess等文件" />
     <MESSAGE value="加入错误提示" />
     <MESSAGE value="打开.gitignore  提交所有文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="打开.gitignore  提交所有文件" />
+    <MESSAGE value="为了上线！！！" />
+    <option name="LAST_COMMIT_MESSAGE" value="为了上线！！！" />
   </component>
   <component name="WindowStateProjectService">
     <state x="530" y="184" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1606904501925">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="184" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.860@0.0.1600.860" timestamp="1606904501925" />
-    <state x="394" y="0" key="CommitChangelistDialog2" timestamp="1607589669070">
+    <state x="394" y="0" key="CommitChangelistDialog2" timestamp="1607590552257">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="394" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1607589669070" />
+    <state x="394" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1607590552257" />
     <state x="616" y="352" key="NewPhpFileDialog" timestamp="1607393501665">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -216,10 +226,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1606727057288" />
-    <state x="436" y="53" key="Vcs.Push.Dialog.v2" timestamp="1607590085624">
+    <state x="436" y="53" key="Vcs.Push.Dialog.v2" timestamp="1607590569916">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="436" y="53" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1607590085624" />
+    <state x="436" y="53" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1607590569916" />
     <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1607587030261">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

@@ -4,7 +4,7 @@ use think\App;
 
 define('APP_PATH', __DIR__ . './application/');
 // 加载框架引导文件
-require __DIR__ . './vendor/autoload.php';
+require __DIR__ . '/vendor/autoload.php';
 
 define('SCRIPT_DIR', rtrim(dirname($_SERVER['SCRIPT_NAME']), '\/\\'));
 
