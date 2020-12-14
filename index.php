@@ -11,7 +11,7 @@ define('SCRIPT_DIR', rtrim(dirname($_SERVER['SCRIPT_NAME']), '\/\\'));
 // 执行HTTP应用并响应
 $http = (new App())->http;
 //设置默认项目模块 $http->name('web')->run();
-$response = $http->run();
+$response = $http->name('web')->run();
 
 $response->send();
 

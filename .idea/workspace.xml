@@ -20,7 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b8018db-ad65-4ba4-b331-a6a2995aa42a" name="Default Changelist" comment="为了上线！！！">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/admin/controller/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/admin/controller/Index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/admin/controller/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/admin/controller/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/model/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/model/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/controller/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/controller/Index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/web/view/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/view/index/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/route/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/web/temp/12c78be44debbc795940e2ac4cc75f70.php" beforeDir="false" afterPath="$PROJECT_DIR$/runtime/web/temp/12c78be44debbc795940e2ac4cc75f70.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,17 +87,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leye" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\software\wamp64\www\blog" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\software\wamp64\www\blog\app\web" />
       <recent name="D:\software\wamp64\www\blog\app" />
       <recent name="D:\software\wamp64\www\blog\app\index\view" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\software\wamp64\www\blog" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -114,7 +124,10 @@
       <workItem from="1607322259217" duration="11241000" />
       <workItem from="1607389775820" duration="13480000" />
       <workItem from="1607583647266" duration="5208000" />
-      <workItem from="1607593362018" duration="390000" />
+      <workItem from="1607593362018" duration="2715000" />
+      <workItem from="1607658124288" duration="2380000" />
+      <workItem from="1607671062200" duration="2098000" />
+      <workItem from="1607910145929" duration="13004000" />
     </task>
     <task id="LOCAL-00001" summary="练习数据库">
       <created>1606784415756</created>
@@ -186,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607593569324</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="为了上线！！！">
+      <created>1607593812281</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607593812281</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,26 +235,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="为了上线！！！" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="433" y="162" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607671925840">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="433" y="162" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1607671925840" />
     <state x="530" y="184" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1606904501925">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="184" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.860@0.0.1600.860" timestamp="1606904501925" />
-    <state x="394" y="0" key="CommitChangelistDialog2" timestamp="1607593564841">
+    <state x="394" y="0" key="CommitChangelistDialog2" timestamp="1607593811225">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="394" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1607593564841" />
-    <state x="616" y="352" key="NewPhpFileDialog" timestamp="1607393501665">
+    <state x="394" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1607593811225" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1607930729254">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="616" y="352" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1607393501665" />
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1607930729254" />
+    <state x="579" y="149" key="NewPhpClassDialog" timestamp="1607671690140">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="579" y="149" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1607671690140" />
+    <state x="616" y="352" key="NewPhpFileDialog" timestamp="1607671700274">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="616" y="352" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1607671700274" />
     <state x="301" y="61" key="SettingsEditor" timestamp="1606727057288">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1606727057288" />
-    <state x="436" y="53" key="Vcs.Push.Dialog.v2" timestamp="1607593575809">
+    <state x="436" y="53" key="Vcs.Push.Dialog.v2" timestamp="1607593819348">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="436" y="53" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1607593575809" />
+    <state x="436" y="53" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1607593819348" />
     <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1607587030261">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

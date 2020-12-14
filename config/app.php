@@ -17,7 +17,7 @@ return [
 
     // 应用映射（自动多应用模式有效）
     'app_map'          => [],
-    // 域名绑定（自动多应用模式有效）
+    // 域名绑定（自动多应用模式有效）DEFAULT_MODULE
     'domain_bind'      => [],
     // 禁止URL访问的应用列表（自动多应用模式有效）template
     'deny_app_list'    => [],
