@@ -26,6 +26,8 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/topthink/think-trace" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/topthink/think-view" />
     </content>
+    <content url="file://$MODULE_DIR$/../leye" />
+    <content url="file://$MODULE_DIR$/../vue_shop" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
