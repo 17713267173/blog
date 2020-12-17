@@ -10,8 +10,7 @@ class Index extends BaseController
     public function index()
     {
         $res = Admins::select();
-        View::assign('data',$res);
-        return View::fetch();
+        return json($res);
     }
     public function mine()
     {

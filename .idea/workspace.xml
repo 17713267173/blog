@@ -19,14 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b8018db-ad65-4ba4-b331-a6a2995aa42a" name="Default Changelist" comment="为了上线！！！">
-      <change beforePath="$PROJECT_DIR$/.idea/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blog.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2b8018db-ad65-4ba4-b331-a6a2995aa42a" name="Default Changelist" comment="接口测试">
       <change beforePath="$PROJECT_DIR$/app/web/controller/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/controller/Index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/web/model/Admins.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/model/Admins.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/web/view/index/mine.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/view/index/mine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runtime/web/temp/825479236a6c6a7a638457b665200bde.php" beforeDir="false" afterPath="$PROJECT_DIR$/runtime/web/temp/825479236a6c6a7a638457b665200bde.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +133,7 @@
       <workItem from="1607996824452" duration="12293000" />
       <workItem from="1608080718148" duration="9060000" />
       <workItem from="1608168295992" duration="4226000" />
-      <workItem from="1608188220133" duration="3136000" />
+      <workItem from="1608188220133" duration="3980000" />
     </task>
     <task id="LOCAL-00001" summary="练习数据库">
       <created>1606784415756</created>
@@ -232,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607933973523</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="接口测试">
+      <created>1608191862457</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1608191862457</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,7 +259,8 @@
     <MESSAGE value="加入错误提示" />
     <MESSAGE value="打开.gitignore  提交所有文件" />
     <MESSAGE value="为了上线！！！" />
-    <option name="LAST_COMMIT_MESSAGE" value="为了上线！！！" />
+    <MESSAGE value="接口测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="接口测试" />
   </component>
   <component name="WindowStateProjectService">
     <state x="380" y="84" key="#CLI_Interpreters" timestamp="1608022474445">
@@ -281,10 +283,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="184" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.860@0.0.1600.860" timestamp="1606904501925" />
-    <state x="394" y="0" key="CommitChangelistDialog2" timestamp="1607940397051">
+    <state x="394" y="0" key="CommitChangelistDialog2" timestamp="1608191856517">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="394" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1607940397051" />
+    <state x="394" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1608191856517" />
     <state x="217" y="67" key="DiffContextDialog" timestamp="1607933855086">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -353,10 +355,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1608190155341" />
-    <state x="436" y="53" key="Vcs.Push.Dialog.v2" timestamp="1607934041497">
+    <state x="436" y="53" key="Vcs.Push.Dialog.v2" timestamp="1608191880435">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="436" y="53" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1607934041497" />
+    <state x="436" y="53" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1608191880435" />
     <state x="344" y="158" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1608021053305">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
