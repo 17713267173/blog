@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b8018db-ad65-4ba4-b331-a6a2995aa42a" name="Default Changelist" comment="接口测试">
-      <change beforePath="$PROJECT_DIR$/app/web/view/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/web/view/index/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +35,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -133,7 +134,9 @@
       <workItem from="1607996824452" duration="12293000" />
       <workItem from="1608080718148" duration="9060000" />
       <workItem from="1608168295992" duration="4226000" />
-      <workItem from="1608188220133" duration="4110000" />
+      <workItem from="1608188220133" duration="6352000" />
+      <workItem from="1608254041048" duration="9737000" />
+      <workItem from="1608513025403" duration="627000" />
     </task>
     <task id="LOCAL-00001" summary="练习数据库">
       <created>1606784415756</created>
@@ -240,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608192875414</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="接口测试">
+      <created>1608192891052</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1608192891052</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,10 +288,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="482" y="71" key="#PHP/0.0.1600.860@0.0.1600.860" timestamp="1608022476718" />
-    <state x="545" y="229" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608022911200">
+    <state x="545" y="229" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608257957019">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="545" y="229" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1608022911200" />
+    <state x="545" y="229" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1608257957019" />
     <state x="433" y="162" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607671925840">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -290,10 +300,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="184" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.860@0.0.1600.860" timestamp="1606904501925" />
-    <state x="394" y="0" key="CommitChangelistDialog2" timestamp="1608192873540">
+    <state x="394" y="0" key="CommitChangelistDialog2" timestamp="1608192889820">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="394" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1608192873540" />
+    <state x="394" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1608192889820" />
     <state x="217" y="67" key="DiffContextDialog" timestamp="1607933855086">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -362,10 +372,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1608190155341" />
-    <state x="436" y="53" key="Vcs.Push.Dialog.v2" timestamp="1608191880435">
+    <state x="436" y="53" key="Vcs.Push.Dialog.v2" timestamp="1608192897636">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="436" y="53" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1608191880435" />
+    <state x="436" y="53" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1608192897636" />
     <state x="344" y="158" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1608021053305">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
